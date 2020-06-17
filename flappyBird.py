@@ -234,8 +234,4 @@ def main():
 
         redrawWindow()
 
-main() #* An astonishing 237 lines of code!
-# TODO Make more cool comments (this is one)
-#? Cool comments
-#! Cool comments
-#* Cool comments
+main()
